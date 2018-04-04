@@ -1,0 +1,533 @@
+#CalorieCalc {
+	text-align: center;
+	border-radius: 13px;
+	border: medium groove #0561AC;
+}
+#subButton {
+	width: 15%;
+	display: table;
+	margin: 0 auto;
+}
+#CalorieCalc .holderForhAndW {
+	color: #B86100;
+}
+#Bicep {
+	border-style: solid;
+	height: 350px;
+	width: 50%;
+}
+.SortLi .ui-li-static .ui-body-inherit {
+	color: #1FA205;
+	font-size: xx-small;
+}
+
+.outerContain {
+	overflow: scroll;
+	overflow-y: hidden;
+	width: 20%;
+	height: 360px;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	float: left;
+}
+#ButtStar {
+	display: table;
+	margin: auto;
+	font-size: 60px;
+	width: 50%;
+	height: 20%;
+	background-image: -webkit-linear-gradient(270deg, rgba(105,232,37,1.00) 16.06%, rgba(255,0,0,1.00) 100%);
+	background-image: linear-gradient(180deg, rgba(105,232,37,1.00) 16.06%, rgba(255,0,0,1.00) 100%);
+}
+.innerContain {
+	width: 80%;
+	height: 360px;
+	overflow: scroll;
+}
+.Arms {
+	border-style: outset;
+	border-radius: 10px;
+	width: 200px;
+}
+.ui-block-b h1 {
+	color: #DDDC08;
+	font-variant: normal;
+	font-weight: lighter;
+	font-size: x-large;
+	border-radius: 8px;
+	text-align: left;
+	background-color: #1C68E0;
+	width: 120px;
+	margin-left: 100px;
+}
+h4 {
+	height: 40px;
+	color: #D49E00;
+}
+h3{
+
+	color: #D49E00;
+}
+td {
+	border-top: thin ridge #0C8203;
+}
+#bieCurl {
+	padding-right: 30px;
+	padding-left: 30px;
+}
+.spacer {
+	padding-right: 10px;
+}
+#ex0 {
+}
+.collapse {
+	text-align: center;
+	display: table;
+	margin: 10px auto;
+}
+#submission {
+	height: 250px;
+	width: 250px;
+	border-radius : 20px;
+	box-shadow: 5px 5px 50px 5px;
+}
+#Ans {
+	padding: 10px;
+	position: relative;
+	;
+	top: 40px;
+	text-align: center;
+}
+#Submit {
+	position: relative;
+	top: 50px;
+	margin: auto;
+	font-size: 40px;
+}
+#CalorieCalc #tableInfo {
+	border-top: 2px solid;
+	border-bottom: 2px solid;
+	border-color: #0561AC;
+}
+#CalorieCalc #aboveTable {
+	border-top: 2px solid;
+	border-color: #0561AC;
+}
+#CalorieCalc .wordWrap {
+	border: thin solid #464646;
+	border-radius: 13px;
+}
+#ExMenu {
+	font-size: 20px;
+}
+#exList {
+	/*float :right;*/
+	width: 80%;
+	margin: auto;
+}
+.headCentre {
+	width: 50%;
+	margin: auto;
+	text-align: center;
+}
+#BackgroundImg {
+	text-align: center;
+	background-image: url("images/GymSetUpAssets.jpg");
+	background-repeat: no-repeat;
+}
+/* Displaying the Use Functions Css Displaying the final output */
+#WorkoutStart {
+}
+.CheckLiBox {
+	display: inline-block;
+	padding: 10px;
+}
+.CheckList {
+	text-align: left;
+	padding: 10px;
+}
+.CheckUl {
+	list-style: none;
+}
+.CheckLi {
+	display: inline-block;
+	padding: 10px;
+}
+#ListEx {
+	margin: auto;
+}
+.LiEx {
+	margin: auto;
+	width : 100% !important;
+}
+.SortLi {
+	width: 80%;
+	text-align: center;
+	margin: auto;
+	border-radius: 10px;
+}
+#List {
+	text-align: center;
+	margin: auto;
+	border-color: #03AB1B;
+	border-style: double;
+}
+#CalorieCalc #words {
+	text-align: center;
+}
+#ref1:link {
+	text-decoration: none;
+}
+#ref1:visited {
+	text-decoration: none;
+}
+#ref1:hover {
+	text-decoration: underline;
+}
+.ui-panel .ui-panel-inner {
+	overflow: auto;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0px;
+}
+.my-page .ui-listview li .ui-btn p {
+	color: #c0c0c0;
+}
+.my-page .ui-listview li .ui-btn .ui-li-aside {
+	color: #eee;
+}
+#bmi {
+	text-align: center;
+	border-radius: 13px;
+	border: medium groove #0561AC;
+}
+#bmi #calculate {
+	background-color: #6BC700;
+}
+#bmi #heightWrap #tall {
+	color: #B86100;
+}
+#bmi #weightWrap #weigh {
+	color: #B86100;
+}
+#bmi #result {
+	color: #E1D200;
+	font-size: large;
+}
+#bmi #weightWrap {
+	border: 2px solid #939393;
+	border-radius: 10px;
+}
+#bmi #heightWrap {
+	border: 2px solid #6E6E6E;
+	border-radius: 10px;
+}
+#bmi #details {
+	text-align: center;
+}
+#bmi #control {
+	font-size: xx-large;
+}
+#workEx h2 {
+	color: #eeeeee;
+}
+.GifDivWrap {
+	padding: 5px;
+	color: #eeeeee;
+	width: 180px;
+	display: inline-block;
+	border-top: 2px solid #0561AC;
+	border-bottom: 2px solid #0561AC;
+	margin-bottom: 20px;
+}
+.GifDivWrap .ColInfo h4 {
+	background-color: #3A9204;
+}
+#tab h2 {
+	color: #E8D909;
+}
+#workEx #tabs .wrapper {
+	position: relative;
+}
+#workEx #tabs p a .gifClass {
+	margin-left: 12px;
+	margin-right: 12px;
+	margin-top: 4px;
+	margin-bottom: 4px;
+}
+#gyms #mapBut {
+	background-color: #2AAF03;
+}
+#gyms #mapPanel .searchResult {
+	color: #D2DF01;
+	font-family: alexa-std;
+	font-style: normal;
+	font-weight: 400;
+}
+#getMapPanel {
+	background-color: #0067C8;
+}
+#wrapper {
+	padding: 0;
+}
+[data-role=popup] {
+	padding: 15px;
+}
+.Totop {
+	float: right;
+	display: inline-block;
+	margin-right: 15px;
+}
+#bmi p #bm {
+	display: inline-block;
+}
+.GifDivWrap .ColInfo h4 {
+	color: #C5FB00;
+	font-size: xx-small;
+}
+.ui-btn {
+	color: #0070CC;
+}
+.collapse div #tableInfo {
+	display: inline-table;
+}
+#wrapper #top #Use div #WorkoutStart #NewList {
+	border-color: #1B48F1;
+	border-radius: 10px;
+	border-style: solid;
+	width: auto;
+}
+
+#workEx #tab .ui-btn {
+	background-color: #3E3C3C;
+	color: #FFFFFF;
+}
+#workEx #tab #menuWork {
+	border-radius: 10px;
+	background-color: #079DD3;
+}
+ui.btn {
+}
+#tabEx .ui-grid-b.ui-responsive #menuEx {
+	background-color: #09A3ED;
+	border-radius: 10px;
+}
+
+/* First breakpoint is 48em (768px). 3 column layout. Tiles 250x250 pixels incl. margin at the breakpoint. */
+@media ( min-width: 48em ) {
+.my-page .ui-content {
+	padding-top: .5625em;
+	padding-right: .5625em;
+	padding-left: .5625em;
+	padding-bottom: .5625em; /* 9px */
+}
+thead tr th {
+	color: #D0D430;
+}
+.ui-grid-a.ui-responsive .ui-block-b #subButton {
+}
+.ui-grid-b.ui-responsive .ui-content .ui-block-b {
+}
+ul .L {
+}
+.ui-block-b #subButton input {
+	background-color: #19F800;
+	color: #F8F8F8;
+}
+.my-page .ui-listview li {
+	float: left;
+	width: 30.9333%; /* 33.3333% incl. 2 x 1.2% margin */
+	height: 14.5em; /* 232p */
+	margin: .5625em 1.2%;
+}
+.my-page .ui-listview li > .ui-btn {
+	-webkit-box-sizing: border-box; /* include padding and border in height so we can set it to 100% */
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+	height: 100%;
+}
+.my-page .ui-listview li.ui-li-has-thumb .ui-li-thumb {
+	height: auto; /* To keep aspect ratio. */
+	max-width: 100%;
+	max-height: none;
+}
+/* Make all list items and anchors inherit the border-radius from the UL. */
+.my-page .ui-listview li, .my-page .ui-listview li .ui-btn, .my-page .ui-listview .ui-li-thumb {
+	-webkit-border-radius: inherit;
+	border-radius: inherit;
+}
+/* Hide the icon */
+.my-page .ui-listview .ui-btn-icon-right:after {
+	display: none;
+}
+/* Make text wrap. */
+.my-page .ui-listview h2, .my-page .ui-listview p {
+	white-space: normal;
+	overflow: visible;
+	position: absolute;
+	left: 0;
+	right: 0;
+}
+/* Text position */
+.my-page .ui-listview h2 {
+	font-size: 1.25em;
+	margin: 0;
+	padding: .125em 1em;
+	bottom: 50%;
+}
+.my-page .ui-listview p {
+	font-size: 1em;
+	margin: 0;
+	padding: 0 1.25em;
+	min-height: 50%;
+	bottom: 0;
+}
+/* Semi transparent background and different position if there is a thumb. The button has overflow hidden so we don't need to set border-radius. */
+.ui-listview .ui-li-has-thumb h2, .ui-listview .ui-li-has-thumb p {
+	background: #111;
+	background: rgba(0, 0, 0, .8);
+}
+.ui-listview .ui-li-has-thumb h2 {
+	bottom: 35%;
+}
+.ui-listview .ui-li-has-thumb p {
+	min-height: 35%;
+}
+/* ui-li-aside has class .ui-li-desc as well so we have to override some things. */
+.my-page .ui-listview .ui-li-aside {
+	padding: .125em .625em;
+	width: auto;
+	min-height: 0;
+	top: 0;
+	left: auto;
+	bottom: auto;
+	/* Custom styling. */
+	background: #990099;
+	background: rgba(153, 0, 153, .85);
+	-webkit-border-top-right-radius: inherit;
+	border-top-right-radius: inherit;
+	-webkit-border-bottom-left-radius: inherit;
+	border-bottom-left-radius: inherit;
+	-webkit-border-bottom-right-radius: 0;
+	border-bottom-right-radius: 0;
+}
+/* If you want to add shadow, don't kill the focus style. */
+.my-page .ui-listview li {
+	-moz-box-shadow: 0px 0px 9px #111;
+	-webkit-box-shadow: 0px 0px 9px #111;
+	box-shadow: 0px 0px 9px #111;
+}
+/* Images mask the hover bg color so we give desktop users feedback by applying the focus style on hover as well. */
+.my-page .ui-listview li > .ui-btn:hover {
+	-moz-box-shadow: 0px 0px 12px #33ccff;
+	-webkit-box-shadow: 0px 0px 12px #33ccff;
+	box-shadow: 0px 0px 12px #33ccff;
+}
+/* Animate focus and hover style, and resizing. */
+.my-page .ui-listview li, .my-page .ui-listview .ui-btn {
+	-webkit-transition: all 500ms ease;
+	-moz-transition: all 500ms ease;
+	-o-transition: all 500ms ease;
+	-ms-transition: all 500ms ease;
+	transition: all 500ms ease;
+}
+}
+[data-role=page] {
+	height: 100% !important;
+	position: relative !important;
+}
+[data-role=footer] {
+	bottom: 0;
+	position: absolute !important;
+	top: auto !important;
+	width: 100%;
+}
+[data-rel=close] {
+	background-color: #9E0002;
+	color: #C5AC00;
+}
+
+@media ( min-width: 63.75em ) {
+.my-page .ui-content {
+	padding: .625em; /* 10px */
+}
+
+.my-page .ui-listview {
+	max-width: 62.5em; /* 1000px */
+	margin: 0 auto;
+}
+
+.my-page .ui-listview li {
+	width: 23%;
+	height: 230px;
+	margin: .625em 1%;
+}
+}
+.tablist-left {
+	display: inline-block;
+	padding: 20px;
+	max-width: 100%;
+	min-width: 100%;
+	float: left;
+}
+
+.tablist-content {
+	text-align: center;
+	vertical-align: middle;
+}
+body {
+	height: 100% !important;
+	margin: 0 !important;
+}
+#clock {
+	display: inline;
+	float: left;
+}
+#infoWindow {
+	color: #470102;
+}
+#fontChange {
+	color: #00C4DC;
+}
+
+/* If exercise screen goes too small */
+
+@media only screen and (max-width: 400px) {
+.LiEx {
+	width : 260px !important;
+}
+#List {
+	text-align: center;
+	margin: auto;
+	padding-right: 10px;
+}
+}
+
+body {
+    background-color: black;
+}
+body {
+ -webkit-transform: translateZ(0);
+   -moz-transform: translateZ(0);
+   -ms-transform: translateZ(0);
+   -o-transform: translateZ(0);
+   transform: translateZ(0);
+   -webkit-backface-visibility: hidden;
+      -moz-backface-visibility: hidden;
+      -ms-backface-visibility: hidden;
+      backface-visibility: hidden;
+
+      -webkit-perspective: 1000;
+      -moz-perspective: 1000;
+      -ms-perspective: 1000;
+      perspective: 1000;
+         -webkit-transform: translate3d(0, 0, 0);
+         -moz-transform: translate3d(0, 0, 0);
+         -ms-transform: translate3d(0, 0, 0);
+         transform: translate3d(0, 0, 0);
+   }
